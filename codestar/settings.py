@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-0z71uy$+wd@2n4i9^#9e9y%9t!6r*fiizn4#6uwo%-3u8%)u%+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-judit3-bookingrestauran-2v3rrrp58m2.ws-eu108.gitpod.io']
+ALLOWED_HOSTS = ['8000-judit3-bookingrestauran-2v3rrrp58m2.ws-eu108.gitpod.io','.herokuapp.com']
 
 
 # Application definition
